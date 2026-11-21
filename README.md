@@ -1,6 +1,3 @@
-# basic-blockchain
-<<<<<<< HEAD
-=======
 # what is done :
  - transactions are saved locally
 
@@ -14,4 +11,4 @@
  - introducing encryption algorithm / private/public keys 
  - signature verification
 
->>>>>>> 136c964 (read me modified)
+
